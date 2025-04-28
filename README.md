@@ -1,4 +1,4 @@
-📊 Smart Budget App
+# 📊 Smart Budget App
 Smart Budget is a modern, user-friendly web application designed to help users easily track income, expenses, and manage budgets — empowering better financial decisions with simplicity and clarity.
 
 🚀 Features
@@ -14,46 +14,50 @@ Smart Budget is a modern, user-friendly web application designed to help users e
 
 - Fully Responsive: Works on mobile, tablet, and desktop devices.
 
-📋 Default Transaction Categories
+## 📋 Default Transaction Categories
 Users can easily select predefined categories based on Income or Expense types.
 
-Income
-Salary
+### Income
+- Salary
 
-Freelance / Side Hustle
+- Freelance / Side Hustle
 
-Business Income
+- Business Income
 
-Investment Returns
+- Investment Returns
 
-Gifts & Bonuses
+- Gifts & Bonuses
 
-Refunds / Reimbursements
+- Refunds / Reimbursements
 
-Expense
-Essentials: Rent, Utilities, Groceries, Transportation, Internet
+### Expense
+- Essentials: Rent, Utilities, Groceries, Transportation, Internet
 
-Personal: Dining, Shopping, Subscriptions, Fitness
+- Personal: Dining, Shopping, Subscriptions, Fitness
 
-Education: Tuition, Stationery, Online Tools
+- Education: Tuition, Stationery, Online Tools
 
-Health: Medicines, Doctor Visits, Health Insurance
+- Health: Medicines, Doctor Visits, Health Insurance
 
-Entertainment: Movies, Travel, Games, Events
+- Entertainment: Movies, Travel, Games, Events
 
-Financial: Loan EMIs, Credit Card Payments, Investments
+- Financial: Loan EMIs, Credit Card Payments, Investments
 
-📸 Screenshots
+## 🛠 Tech Stack
+- Typescipt
+- javasript
+- HTML and CSS
+
+## 📸 Screenshots
 
 Dashboard Page	Add Transaction Page	Budget Setting Page
-Add screenshots 	
-🙌 Contributors
-Ramanuj Bundela 
-Nikhil Kumar Bhaskar
-Gourav Patel
+### 🙌 Contributors
+- Ramanuj Bundela 
+- Nikhil Kumar Bhaskar
+- Gourav Patel
 
 
-✨ Future Enhancements
+## ✨ Future Enhancements
 - Add user authentication (login/signup)
 
 - Allow users to create custom categories
@@ -64,7 +68,7 @@ Gourav Patel
 
 - Dark mode support
 
-🧡 Support
+### 🧡 Support
 If you like this project, consider ⭐ starring the repository!
 Have feedback or suggestions? Feel free to open an issue or a pull request. 🚀
 
